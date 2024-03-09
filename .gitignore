@@ -7,3 +7,4 @@ jupyter_execute/
 
 *.pyc
 *.ckpt
+.env
